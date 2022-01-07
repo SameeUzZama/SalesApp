@@ -1,0 +1,16 @@
+.check {
+  background-color: rgb(138, 204, 51);
+}
+.check button {
+  margin: 10px 20px;
+  padding: 10px 40px;
+  background-color: rgb(59, 119, 69);
+}
+.check01 {
+  background-color: rgb(253, 62, 4);
+}
+.check01 button {
+  margin: 10px 20px;
+  padding: 10px 40px;
+  background-color: rgb(58, 41, 155);
+}

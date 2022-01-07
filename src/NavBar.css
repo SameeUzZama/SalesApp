@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+}
+.Anchor {
+  background-color: rgb(156, 95, 95);
+  padding: 20px;
+  text-align: center;
+}
+.Anchor .Anchor-2 {
+  text-decoration: none;
+  padding: 0px 50px;
+  justify-items: center;
+  font-size: 30px;
+  text-shadow: 2px 2px 5px white;
+}
+.Anchor .Anchor-2:hover {
+  color: black;
+  background-color: blanchedalmond;
+  border-radius: 25px;
+  text-shadow: 2px 2px 5px red;
+  box-shadow: 10px 10px black;
+}
